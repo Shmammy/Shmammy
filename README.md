@@ -20,3 +20,4 @@ I'm Sam Waters, a student at Brigham Young University-Idaho interested in virtua
 - Here is my [LinkedIn](www.linkedin.com/in/samantha-waters-3383a1332) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
