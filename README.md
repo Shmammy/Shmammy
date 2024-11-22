@@ -1,16 +1,22 @@
-## Hi there 👋
+# Samantha Waters
 
-<!--
-**Shmammy/Shmammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋
 
-Here are some ideas to get you started:
+I'm Sam Waters, a student at Brigham Young University-Idaho interested in virtual design & construction, construction management, computer science, web development, and software development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning programming basics, programming with functions, and Revit.
+- My goals are to make a career in virtual design & consturction, and to use programming skills for freelance work. 
+- Ask me about Magic the Gathering, videogames, arts and crafts, cooking, baking, and anything involving great food. 
+
+## Technologies and Tools
+
+- Proficient in: Python, Revit
+- Skills: planning, organization, time management, creativity, not afraid to ask questions, team player, leader
+
+## Let's Connect!
+
+- Here is my [LinkedIn](www.linkedin.com/in/samantha-waters-3383a1332) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
